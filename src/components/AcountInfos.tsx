@@ -1,7 +1,7 @@
 import acountimage from "../assets/test.jfif";
-
 const acountname: string = "Matheus Forster Antunes";
 const acountdesc: string = "Desenvolvedor Front-End";
+
 const AcountInfos = () => {
   return (
     <>

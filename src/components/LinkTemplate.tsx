@@ -1,5 +1,5 @@
 type Props = {
-  image: string;
+  image: any;
   linkName: string;
   http: string;
 };
